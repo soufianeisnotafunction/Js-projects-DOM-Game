@@ -1,0 +1,22 @@
+{
+  "name": "js-projects-dom-game",
+  "version": "1.0.0",
+  "description": "--- ![preview](preview.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soufianeisnotafunction/Js-projects-DOM-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soufianeisnotafunction/Js-projects-DOM-Game/issues"
+  },
+  "homepage": "https://github.com/soufianeisnotafunction/Js-projects-DOM-Game#readme",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
